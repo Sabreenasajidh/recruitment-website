@@ -1,0 +1,36 @@
+/* .IconButton{
+    size
+    edge="start"
+    color="inherit"
+    aria-label="menu"
+    sx={{ mr: 2 }}
+} */
+
+.appbar{
+    position: static;
+    background-color: darkblue;
+}
+.btn:hover {
+    color: orange;
+  }
+  .menuItem{
+      background-color: white !important;
+  }
+  .menuItem:hover {
+    color: orange;
+    background-color: gainsboro !important
+
+  }
+  
+.btn{
+    margin-right: 10px !important;
+    /* background-color: white !important; */
+    /* border: none;
+    outline: none;
+    float: right; */
+}
+img{
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}

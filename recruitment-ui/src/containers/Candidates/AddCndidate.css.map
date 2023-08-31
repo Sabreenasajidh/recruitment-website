@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,MAAM,EAAE,SAAS,EAAE,MAAM;EACzB,AAAA,gBAAgB,CAAA;IACZ,SAAS,EAAE,gBAAgB;IAC3B,MAAM,EAAC,IAAI;GACd;;;AAGD,MAAM,EAAE,SAAS,EAAE,KAAK;EACpB,AAAA,gBAAgB,CAAA;IACZ,SAAS,EAAE,gBAAgB;IAC3B,MAAM,EAAC,IAAI;GACd",
+    "sources": [
+        "AddCndidate.scss"
+    ],
+    "names": [],
+    "file": "AddCndidate.css"
+}

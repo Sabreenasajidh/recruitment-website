@@ -1,0 +1,204 @@
+.candidate-page{
+    height: 82vh;
+    background-color: white;
+    width:70%;
+    margin: 10px 0px 10px 180px;
+    border-radius: 2px;
+    
+}
+.candidates-header{
+    height: 90px;
+    background-color: rgb(83, 147, 187);
+}
+center{
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: cursive;
+}
+.searchbox{
+    border-radius: .25rem;
+    border:1px solid #ced4da;
+    height: 25px;
+    margin-left: 20px;
+    margin-top: 8px;
+    float: left;
+
+}
+.add-btn{
+    float: right;
+    height: 30px;
+    margin-right: 20px;
+    margin-top: 8px;
+    border:none;
+    border-radius: 25rem;
+
+}
+
+.candidates-table{
+    /* padding: 0px 10px 0px 10px; */
+    margin-top: 0px;
+    /* margin-top: 0px !important;
+   height: 60vh; */
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: .9rem;
+    border: 1px solid #dddddd;;
+  }
+  
+  td, th {
+    /* border: 1px solid #dddddd; */
+    text-align:left;
+    padding: 10px;
+    padding-bottom: 20px;
+    width:20px
+  }
+  th{
+      background-color: #e9ecef;
+   } 
+   
+   .add-candidate-frame{
+       display: inline;
+       /* height: 70vh;
+       width: 400px;
+       background-color: #cdc5c5;
+       border-radius: 13px; */
+       /* margin-left: 450px;
+       margin-top: 70px; */
+    }
+    .avatar{
+        margin-left: 640px;
+        
+    }
+    .add-candidate-form{
+     height: 70vh;
+     width: 400px;
+     background-color:  #e1d8d8;
+     border-radius: 13px;
+     margin-top: -20px;
+     margin-left: 480px;
+     /* margin-top: 70px; */
+ }
+ .addUser-container{
+     height: 50px;
+     margin:20px 0px 30px 50px
+ }
+ .placeholder{
+     /* width: 50px; */
+     float: left;
+     /* padding-left: 30px; */
+ }
+ .label{
+    margin-right: 40px;
+    font-size: 10px;
+ }
+ .input{
+     height: 35px;
+     border-radius: 5px;
+     /* margin-left: 20px; */
+     /* float: right; */
+     margin-right: 40px;
+     width: 250px;
+     border:inherit;
+     display: block;
+ }
+ .submit{
+     height: 50px;
+     width: 140px;
+     background-color: blue;
+     color: white;
+     font-weight: bolder;
+     align-content: center;
+     border: none;
+     margin-left: 130px;
+     border-radius: 15px;
+     margin-top: 25px;
+ }
+ p{
+     color: red;
+     font-size: small;
+     margin-top: -3px;
+ }
+ .error-input{
+    height: 35px;
+    border-radius: 5px;
+    /* margin-left: 20px; */
+    /* float: right; */
+    margin-right: 40px;
+    width: 250px;
+    border-color:red;
+    display: block;
+ }
+ /* .form-select{
+     color: #636c72 !important;
+ } */
+    /* .edit .delete{
+      margin: 0px !important;
+  }
+  .add-btn{
+      float: right;
+      height: 30px;
+      margin-right: 10px;
+  }  */
+ /* .candidates-header h4{
+    display: block;
+    text-align: -webkit-center;
+    
+    
+} */
+
+  
+/* .candidates-btn{
+    margin-top: 10px;
+    margin-bottom: 20px; */
+    /* display: inline;
+    float: right; */
+/* }
+  .searchbox{
+      border-radius: .25rem;
+      border:1px solid #ced4da;
+      height: 25px;
+      margin-left: 10px;
+  } */
+  /* tr:nth-child(even) {
+    background-color: #dddddd;
+  } */
+
+
+
+
+  /* .add-candidate-frame{
+      height: 70vh;
+      width:70vw;
+      border:1px solid #ced4da;
+      margin: 110px 0px 0px 150px; */
+      /* padding-left: 20px; */
+  /* }
+
+  .candidate-header{
+      height: 8vh;
+      width: 100%;
+      background-color: firebrick;
+      color: white;
+      font-size: 16px;
+  }
+  center{
+    padding: 25px;  
+} */
+/* .candidate-form{
+    height: 62vh;
+    background-color: darkkhaki;
+} */
+
+/* .mx-7 {
+    margin-right: 16rem!important;
+    margin-left: 16rem!important;
+} */
+.small-middle-container{
+	margin: auto;
+	width: 40%;
+}
+

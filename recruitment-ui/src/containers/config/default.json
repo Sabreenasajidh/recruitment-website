@@ -1,0 +1,92 @@
+{
+    "structure": [
+        "percent",
+        "basic"
+    ],
+    "agreement_status": [
+        "drafted",
+        "cancelled",
+        "confirmed"
+    ],
+    "limit": 10,
+    "countryList": [
+        "United Arab Emirates",
+        "Kuwait",
+        "Saudi Arabia",
+        "Qatar",
+        "Bahrain",
+        "Oman"
+    ],
+    "candidateStatus": [
+        "active",
+        "inactive"
+    ],
+    "persons": [
+        {
+            "id": 1,
+            "name": "Sabreena",
+            "email": "sibi.sabri@gmail.com",
+            "title": "Chief Executive Officer"
+        },
+        {
+            "id": 2,
+            "name": "Sajidh",
+            "email": "sajidh21@gmail.com",
+            "title": "Chief Executive Officer"
+        },
+        {
+            "id": 3,
+            "name": "Nizam",
+            "email": "nizam33@gmail.com",
+            "title": "Manager"
+        },
+        {
+            "id": 4,
+            "name": "Ummer",
+            "email": "ummaer44@gmail.com",
+            "title": "Manager"
+        },
+        {
+            "id": 5,
+            "name": "Xyz",
+            "email": "xyz@gmail.com",
+            "title": "Manager"
+        }
+    ],
+    "referal_validity": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ],
+    "recruitment_status": [
+        {
+            "id": 1,"status": "Ready to Recruit"
+        },
+        {
+            "id":2,"status":"Shortlisted"
+        },
+        {
+            "id":3,"status":"Interviewed"
+        },
+        {
+            "id":4,"status":"Offer letter confirmed"
+        },
+        {
+            "id":5,"status":"Negotiation"
+        },
+        {
+            "id":7,"status":"Notice period"
+        },
+        {
+            "id":8,"status":"Joining date"
+        },
+        {
+            "id":9,"status":"Probation period"
+        },
+        {
+            "id":10,"status":"Completed/Confirmed"
+        }
+    ]
+}

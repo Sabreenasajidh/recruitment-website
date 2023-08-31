@@ -1,0 +1,14 @@
+@media (min-width: 1400px) {
+  .container-small {
+    max-width: 900px !important;
+    margin: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .container-small {
+    max-width: 720px !important;
+    margin: auto;
+  }
+}
+/*# sourceMappingURL=AddCndidate.css.map */
